@@ -21,11 +21,7 @@ If you use any part of this code in your work, please consider citing our paper:
 }
 ```
 
-## <a name="refs"></a> References
-
-Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics* (to appear).
-
-</br>
+## Disclaimer
 
 ```
 # Disclaimer:
@@ -37,3 +33,10 @@ Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a No
 # tort or otherwise, arising from, out of, or in connection with the software or the use
 # or other dealings in the software.
 ```
+
+
+## <a name="refs"></a> References
+
+Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics* (to appear).
+
+</br>
