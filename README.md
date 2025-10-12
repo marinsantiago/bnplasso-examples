@@ -8,21 +8,20 @@ Detailed instructions on how to reproduce the results from the article are prese
 
 ## <a name="cite"></a> Citation
 
-If you use any part of this code in your work, please consider citing our paper:
+If you use any part of this code in your work, please consider citing our JCGS paper:
 
-```
-@misc{marin_bnplasso,
-  title         = {Adaptive Shrinkage with a Nonparametric Bayesian Lasso}, 
-  author        = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},
-  year          = {2024},
-  eprint        = {2411.08262},
-  archivePrefix = {arXiv},
-  primaryClass  = {stat.ME}
+```TeX
+@article{marin_bnplasso,
+  title   = {Adaptive Shrinkage with a Nonparametric Bayesian Lasso},
+  author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},
+  journal = {Journal of Computational and Graphical Statistics},
+  year    = {2025},
+  doi     = {10.1080/10618600.2025.2572327},
 }
 ```
 
 ## <a name="refs"></a> References
 
-Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics* (to appear).
+Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics*. DOI: 10.1080/10618600.2025.2572327
 
 </br>
