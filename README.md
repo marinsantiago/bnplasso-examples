@@ -22,6 +22,6 @@ If you use any part of this code in your work, please consider citing our JCGS p
 
 ## <a name="refs"></a> References
 
-Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics*. DOI: 10.1080/10618600.2025.2572327
+Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics*. [doi:10.1080/10618600.2025.2572327](https://doi.org/10.1080/10618600.2025.2572327)
 
 </br>
