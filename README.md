@@ -1,6 +1,6 @@
 # bnplasso-examples
 
-This repository contains source code to reproduce the results from the article "[Adaptive Shrinkage with a Nonparametric Bayesian Lasso]([https://arxiv.org/abs/2311.03644](https://arxiv.org/abs/2411.08262))" (Marin et al., 2025+).
+This repository contains source code to reproduce the results from the article "[Adaptive Shrinkage with a Nonparametric Bayesian Lasso](https://doi.org/10.1080/10618600.2025.2572327)" (Marin et al., 2025+).
 
 The `bnplasso` R package is available at the Github repository: [https://github.com/marinsantiago/bnplasso](https://github.com/marinsantiago/bnplasso).
 
