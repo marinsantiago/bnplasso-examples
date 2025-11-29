@@ -8,7 +8,7 @@ Detailed instructions on how to reproduce the results from the article are prese
 
 ## <a name="cite"></a> Citation
 
-If you use any part of this code in your work, please consider citing our JCGS paper:
+If you use any part of this code in your work, please consider citing our *JCGS* paper:
 
 ```TeX
 @article{marin_bnplasso,
