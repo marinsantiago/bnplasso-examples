@@ -23,6 +23,7 @@ the package from the `bnplasso` folder in the supplementary materials to Marin e
 # install.packages("devtools")
 devtools::build()
 devtools::install()
+```
 
 Detailed instructions on how to reproduce the results from the article are presented in the README file, located in the Supplementary Materials accompanying the main manuscript, available at [https://doi.org/10.1080/10618600.2025.2572327](https://doi.org/10.1080/10618600.2025.2572327).
 
