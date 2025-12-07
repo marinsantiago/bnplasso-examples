@@ -9,6 +9,7 @@ version of the  package employed at that time (`bnplasso 0.1.0`).
 That can easily be done by running in R:
 
 ``` r
+# install.packages("devtools")
 devtools::install_github("marinsantiago/bnplasso@3c87169")
 ```
 
