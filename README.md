@@ -1,10 +1,10 @@
 # bnplasso-examples
 
-Thanks for dropping by! This repository contains source code to reproduce the results from the article "[Adaptive Shrinkage with a Nonparametric Bayesian Lasso](https://doi.org/10.1080/10618600.2025.2572327)" (Marin et al., 2025+).
+Thanks for dropping by! This repository contains source code to reproduce the results from the article "[Adaptive Shrinkage with a Nonparametric Bayesian Lasso](https://doi.org/10.1080/10618600.2025.2572327)" (Marin et al., 2026).
 
 The `bnplasso` R package is available at the Github repository: [https://github.com/marinsantiago/bnplasso](https://github.com/marinsantiago/bnplasso).
 
-If you would like to reproduce the results from Marin et al. (2025+), you should install the 
+If you would like to reproduce the results from Marin et al. (2026), you should install the 
 version of the  package employed at that time (`bnplasso 0.1.0`). 
 That can easily be done by running in R:
 
@@ -14,7 +14,7 @@ pak::pak("marinsantiago/bnplasso@3c87169")
 ```
 
 Alternatively, you can also install the package (`bnplasso 0.1.0`) from the
-`bnplasso` folder in the supplementary materials to Marin et al. (2025+):
+`bnplasso` folder in the supplementary materials to Marin et al. (2026):
 
   1. In R, set your working directory to the folder `bnplasso`.
   
@@ -36,11 +36,14 @@ If you use any part of this code in your work, please consider citing our *JCGS*
 
 ```TeX
 @article{marin_bnplasso,
-  title   = {Adaptive Shrinkage with a Nonparametric Bayesian Lasso},
+  title   = {Adaptive Shrinkage with a Nonparametric {B}ayesian Lasso},
   author  = {Santiago Marin and Bronwyn Loong and Anton H. Westveld},
   journal = {Journal of Computational and Graphical Statistics},
-  year    = {2025},
-  doi     = {10.1080/10618600.2025.2572327},
+  volume  = {35},
+  number  = {2},
+  pages   = {854--864},
+  year    = {2026},
+  doi     = {10.1080/10618600.2025.2572327}
 }
 ```
 
@@ -55,6 +58,6 @@ or other dealings in the software.
 
 ## <a name="refs"></a> References
 
-Marin, S., Loong, B., and Westveld, A. H. (2025+), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics*. [doi:10.1080/10618600.2025.2572327](https://doi.org/10.1080/10618600.2025.2572327)
+Marin, S., Loong, B., and Westveld, A. H. (2026), "Adaptive Shrinkage with a Nonparametric Bayesian Lasso." *Journal of Computational and Graphical Statistics*, **35**(2):854-864. [doi:10.1080/10618600.2025.2572327](https://doi.org/10.1080/10618600.2025.2572327)
 
 </br>
