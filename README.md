@@ -2,7 +2,7 @@
 
 Thanks for dropping by! This repository contains source code to reproduce the results from the article "[Adaptive Shrinkage with a Nonparametric Bayesian Lasso](https://doi.org/10.1080/10618600.2025.2572327)" (Marin et al., 2026).
 
-![](./imgs/coclust_rho03_n100.pdf) ![](./imgs/coclust_rho03_n250.pdf) ![](./imgs/coclust_rho03_n500.pdf)
+<img src="./imgs/coclust_rho03_n100.png" width="32%" > <img src="./imgs/coclust_rho03_n250.png" width="32%" > <img src="./imgs/coclust_rho03_n500.png" width="32%" >
 
 The `bnplasso` R package is available at the Github repository: [https://github.com/marinsantiago/bnplasso](https://github.com/marinsantiago/bnplasso).
 
