@@ -28,7 +28,7 @@ devtools::build()
 devtools::install()
 ```
 
-A *changelog* is available [here](https://marinsantiago.github.io/bnplasso-site/news/index.html).
+A detailed *changelog* is available [here](https://marinsantiago.github.io/bnplasso-site/news/index.html).
 
 Detailed instructions on how to reproduce the results from the article are presented in the README file, located in the Supplementary Materials accompanying the main manuscript, available at [https://doi.org/10.1080/10618600.2025.2572327](https://doi.org/10.1080/10618600.2025.2572327).
 
