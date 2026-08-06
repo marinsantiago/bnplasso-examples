@@ -38,6 +38,7 @@ A detailed *changelog* is available [here](https://marinsantiago.github.io/bnpla
 .
 ├── data-analyses/                 # Scripts to reproduce the results from the real-world data analysis, as well as the actual raw data files
    └── protein/                    # Analysis of the protein activity data
+├── imgs/                          # Illustrative plots used in the README file
 ├── R/                             # Scripts with helper functions required throughout the analysis
 └── sims/                          # Scripts to reproduce the results from the simulation studies
    ├── asymptotic_lambdas/         # Asymptotic behavior of λ_1 and λ_2
