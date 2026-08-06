@@ -4,6 +4,8 @@ Thanks for dropping by! This repository contains source code to reproduce the re
 
 <img src="./imgs/coclust_rho03_n100.png" width="32%" > <img src="./imgs/coclust_rho03_n250.png" width="32%" > <img src="./imgs/coclust_rho03_n500.png" width="32%" >
 
+## Getting started 
+
 The `bnplasso` R package is available at the Github repository: [https://github.com/marinsantiago/bnplasso](https://github.com/marinsantiago/bnplasso).
 
 If you would like to reproduce the results from Marin et al. (2026), you should install the 
@@ -29,6 +31,35 @@ devtools::install()
 ```
 
 A detailed *changelog* is available [here](https://marinsantiago.github.io/bnplasso-site/news/index.html).
+
+## Folder structure 
+
+```
+.
+├── data-analyses/                 # Scripts to reproduce the results from the real-world data analysis, as well as the actual raw data files
+   └── protein/                    # Analysis of the protein activity data
+├── R/                             # Scripts with helper functions required throughout the analysis
+└── sims/                          # Scripts to reproduce the results from the simulation studies
+   ├── asymptotic_lambdas/         # Asymptotic behavior of λ_1 and λ_2
+   ├── co_clustering/              # Co-cluster analysis
+   ├── n100_rho03/                 # Simulation setting with n = 100 and ρ = 0.3
+   ├── n100_rho05/                 # Simulation setting with n = 100 and ρ = 0.5
+   ├── n100_rho07/                 # Simulation setting with n = 100 and ρ = 0.7
+   ├── n100_rho03_var5/            # Simulation setting with n = 100, ρ = 0.3, and σ^2 = 5
+   ├── n250_rho03/                 # Simulation setting with n = 250 and ρ = 0.3
+   ├── n250_rho05/                 # Simulation setting with n = 250 and ρ = 0.5
+   ├── n250_rho07/                 # Simulation setting with n = 250 and ρ = 0.7
+   ├── n250_rho03_var5/            # Simulation setting with n = 250, ρ = 0.3, and σ^2 = 5
+   ├── n500_rho03/                 # Simulation setting with n = 500 and ρ = 0.3
+   ├── n500_rho05/                 # Simulation setting with n = 500 and ρ = 0.5
+   ├── n500_rho07/                 # Simulation setting with n = 500 and ρ = 0.7
+   ├── n500_rho03_var5/            # Simulation setting with n = 500, ρ = 0.3, and σ^2 = 5
+   ├── results/                    # Stored simulation results
+   ├── robustness_clustering/      # Clustering results for different values of α, a, and b
+   └── var_select_consistency/     # Asymptotic support recovery analysis
+```
+
+## Running the scripts
 
 Detailed instructions on how to reproduce the results from the article are presented in the README file, located in the Supplementary Materials accompanying the main manuscript, available at [https://doi.org/10.1080/10618600.2025.2572327](https://doi.org/10.1080/10618600.2025.2572327).
 
